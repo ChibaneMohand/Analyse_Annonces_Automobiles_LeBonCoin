@@ -1,6 +1,2 @@
-# Ignorer les répertoires __pycache__
 __pycache__/
-
-# Autres fichiers ou dossiers à ignorer
-.env
-*.log
+.ipynb_checkpoints/
